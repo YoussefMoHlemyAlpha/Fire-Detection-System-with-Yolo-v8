@@ -21,7 +21,6 @@ This project highlights the potential of AI in enhancing fire safety measures, o
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-📜 License
-This project is licensed under the MIT License.
+
 
 Let’s innovate together! 🌟
