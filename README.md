@@ -11,6 +11,7 @@ Testing:
 Verified the model's performance on pre-recorded videos.
 Real-time fire detection using live camera feed with a confidence threshold of 40%.
 Output: Saves detected instances and provides visual feedback in real-time.
+
 🛠️ Tools & Technologies
 YOLOv8 by Ultralytics for object detection.
 Roboflow for dataset preparation.
